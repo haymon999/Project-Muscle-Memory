@@ -1,0 +1,11 @@
+# Game files are NEVER committed (copyrighted; supply your own APK)
+*.apk
+*.obb
+*.so
+*.dex
+# Local build/install artifacts
+signed/
+extract/
+patch_out/
+logs/*.log
+__pycache__/
